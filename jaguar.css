@@ -1,0 +1,54 @@
+div{
+	float: left;
+	fo
+}
+img{
+	margin-left: 30px;
+}
+h3{
+	margin-left: 30px;
+	font-family: castellar;
+	font-weight: bolder;
+	color: red;
+	font:arial;
+
+
+
+
+}
+ul{
+	margin-left: 50px;
+}
+h1{
+	float: right;
+}
+
+.head1{
+    background-color: black;
+    display: flex;
+    
+}
+.head2{
+    background-color: rgb(221, 217, 212); 
+    
+}
+.head2 img{
+    margin-left: 100px;
+    
+}
+.head2 img:hover{
+    -webkit-transform: scale(1.1);
+	transform: scale(1.3);
+}
+.head1 h1{
+    margin-left: 40px;
+    color: white;
+    font-size: 24px;
+
+}
+.head1 b{
+    color: red;
+}
+.head1 .h{
+    margin-right: 40px;
+    margin-left: 60%;
